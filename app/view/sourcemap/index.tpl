@@ -16,7 +16,7 @@
   <div id="app">
     <el-row style="display: none;" :style="{display: visible ? 'block' : 'none'}">
       <el-row>
-        url示例：http://wap.xinhehui.com/static/js/21/21.40cca96c5ae196560388.js.map
+        url示例：http://xhhfe.xinhehui.com:8001/static/js/0/0.e5c9f1c0aee5dd700e20.js.map
       </el-row>
 
       <el-row>
